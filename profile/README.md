@@ -9,7 +9,7 @@ We offer you the opportunity to create a dedicated remote team tailored to your 
 
 
 
-![cover](https://drive.google.com/file/d/16Z5YPy6ZovnsPaaFa6c9prkzNhr4h6W8/view?usp=sharing)
+![cover](https://cloud.appwrite.io/v1/storage/buckets/my5app/files/67f8e95d000c49862c5c/view?project=my5app)
 
 
 ## Our Team
