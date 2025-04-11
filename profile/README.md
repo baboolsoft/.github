@@ -9,7 +9,7 @@ We offer you the opportunity to create a dedicated remote team tailored to your 
 
 
 
-![cover](https://media.licdn.com/dms/image/D563DAQGi6Dj2nbCL8A/image-scale_191_1128/0/1675335120509/baboolsoft_cover?e=1720879200&v=beta&t=dAmS7sVHsIw4pyWEyvLc3XcCUuNvT1p3XHIlh5A05-Y)
+![cover](https://drive.google.com/file/d/16Z5YPy6ZovnsPaaFa6c9prkzNhr4h6W8/view?usp=sharing)
 
 
 ## Our Team
