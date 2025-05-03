@@ -14,14 +14,10 @@ We offer you the opportunity to create a dedicated remote team tailored to your 
 
 ## Our Team
 
-- [@Dinesh](https://www.github.com/dnshko)
 - [@Marimuthu Raja](https://www.github.com/Marimuthu-Raja)
 - [@Dhanapackialakshmi](https://www.github.com/dhanapackialskshmi)
-- [@GanagaPuspa](https://www.github.com/GanagaPuspa-Baboolsoft)
 - [@Asmath](https://www.github.com/asmath-s)
-- [@Akila](https://www.github.com/Akila1804)
 - [@Harini](https://www.github.com/ikigai-follower)
-- [@Sakthivel](https://www.github.com/psvel332)
 - [@Ahilan](https://www.github.com/Ahilan0499)
 
 
