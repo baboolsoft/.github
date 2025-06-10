@@ -16,9 +16,7 @@ We offer you the opportunity to create a dedicated remote team tailored to your 
 
 - [@Marimuthu Raja](https://www.github.com/Marimuthu-Raja)
 - [@Dhanapackialakshmi](https://www.github.com/dhanapackialskshmi)
-- [@Asmath](https://www.github.com/asmath-s)
 - [@Harini](https://www.github.com/ikigai-follower)
-- [@Ahilan](https://www.github.com/Ahilan0499)
 - [@Surya](https://www.github.com/SuryaBaboolsoft2002)
 
 ## FAQ
