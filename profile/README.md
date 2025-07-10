@@ -1,6 +1,6 @@
 
 
-![Logo](https://baboolsoft.com/assets/images/blogo.png)
+![Logo](https://www.baboolsoft.com/baboolsoft_logo.svg)
 
 
 # We Turn Innovative Thoughts Into Digitalized Solutions
@@ -9,7 +9,7 @@ We offer you the opportunity to create a dedicated remote team tailored to your 
 
 
 
-![cover](https://cloud.appwrite.io/v1/storage/buckets/my5app/files/67f8e95d000c49862c5c/view?project=my5app)
+![cover](https://fra.cloud.appwrite.io/v1/storage/buckets/my5app/files/686f3f0200242b11b9ab/view?project=my5app)
 
 
 ## Our Team
