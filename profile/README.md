@@ -9,7 +9,7 @@ We offer you the opportunity to create a dedicated remote team tailored to your 
 
 
 
-![cover](https://fra.cloud.appwrite.io/v1/storage/buckets/my5app/files/686f3f0200242b11b9ab/view?project=my5app)
+![cover](https://brochure.baboolsoft.com/baboolsoft-banner.png)
 
 
 ## Our Team
@@ -18,6 +18,7 @@ We offer you the opportunity to create a dedicated remote team tailored to your 
 - [@Dhanapackialakshmi](https://www.github.com/dhanapackialskshmi)
 - [@Harini](https://www.github.com/ikigai-follower)
 - [@Surya](https://www.github.com/SuryaBaboolsoft2002)
+- [@Gowri](https://www.github.com/Gowri-C-7512)
 
 ## FAQ
 
@@ -44,7 +45,8 @@ Baboolsoft stands out due to its unwavering commitment to client satisfaction, i
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Baboolsoft-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://baboolsoft.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/baboolsoft/)
-
+[![Youtube](https://img.shields.io/badge/youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@baboolsoftsolutions)
+[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baboolsoft/)
 
 
 ## Support
